@@ -68,9 +68,9 @@ FPGA-based digital system developed in **SystemVerilog**, including VGA controll
 
 ## 📊 GitHub Stats
 
-![Adriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriel23456&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adriel23456&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel23456&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel23456&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ---
 
