@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriel%20Chaves-blue?logo=linkedin)](https://www.linkedin.com/in/adrielsebastianchavessalazar/)
 ·
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:adriel.chaves23456@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:adriel.chaves@hotmail.com)
 
 ---
 
